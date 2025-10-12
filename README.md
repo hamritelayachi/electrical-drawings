@@ -9,7 +9,10 @@ All the circuits are drawn using **Cade_Simu** software.
 - Keep my work organized and share it with others.  
 
 ## 📂 Contents
-- Direct-On-Line (DOL) starter  
+- Direct-On-Line (DOL) starter
+- Start_Delta_Starter
+- Automatic_Conveyor_System
+
 
 ## 🛠️ Tools
 - **Cade_Simu** for creating and simulating the schematics.  
